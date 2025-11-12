@@ -1,3 +1,6 @@
+//אחמד זוביידאת -313536633
+//לרה חורי211565445
+//50-2
 // Load Node.js File System module
 const fs = require("fs");
 
@@ -45,3 +48,4 @@ fs.writeFileSync(
 // Print confirmation and show results as a table
 console.log("✅ output.txt created successfully!\n");
 console.table(combined);
+
